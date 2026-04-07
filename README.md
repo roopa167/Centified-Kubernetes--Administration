@@ -1,6 +1,6 @@
-# Domain - Core Concepts by Roopa Devi Miriyala
+# Certified Kubernetes Aministration Core Concepts - Roopa Devi Miriyala
 
-The code mentioned in this document are used in the Certified Kubernetes Administrator 2024 course.
+The code mentioned in this document are used in the Certified Kubernetes Administrator 2025 course.
 
 
 | Sr No | Document Link |
