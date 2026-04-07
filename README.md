@@ -1,4 +1,4 @@
-# Domain - Core Concepts by RNREDDY
+# Domain - Core Concepts by Roopa Devi Miriyala
 
 The code mentioned in this document are used in the Certified Kubernetes Administrator 2024 course.
 
